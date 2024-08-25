@@ -19,7 +19,7 @@ body {
 
 /* Gaya untuk header */
 header {
-    background: #333;
+    background: #9c1056;
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -118,3 +118,4 @@ button {
 button:hover {
     background-color: #555;
 }
+
